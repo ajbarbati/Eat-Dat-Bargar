@@ -1,0 +1,19 @@
+{
+  "name": "eat-dat-bargar",
+  "version": "1.0.0",
+  "description": "Come get ya'lls bargars now ya hear!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajbarbati/Eat-Dat-Bargar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajbarbati/Eat-Dat-Bargar/issues"
+  },
+  "homepage": "https://github.com/ajbarbati/Eat-Dat-Bargar#readme"
+}
